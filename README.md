@@ -22,3 +22,4 @@ Paragrafın girilmesi ve satır genişliğine göre hizalanması:
 ![image](https://user-images.githubusercontent.com/57726183/154367389-81312cfb-37e9-4fd6-ab38-b1066cda6f09.png)
 ![image](https://user-images.githubusercontent.com/57726183/154367417-386e36b8-62b5-450f-97d7-cdddfc743d3a.png)
 
+Yön matrisi: ![image](https://user-images.githubusercontent.com/57726183/154369937-8946ffc3-09d0-40f5-b40d-5da383affdad.png)
