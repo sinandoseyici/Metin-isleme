@@ -13,6 +13,7 @@ Durağan bellek özelliğiyle tanımlanan değişkene programın yürütülmesi 
 #### Çıktılar
 Paragrafın satır genişliğine göre hizalanması:
 ![image](https://user-images.githubusercontent.com/57726183/154367166-9723eae6-1b14-4fe3-a542-7a136ebc999d.png)
+##### Kelimelerin hem alfabetik hem tekrar sayısına göre azalan sırada sıralanması:
 ![image](https://user-images.githubusercontent.com/57726183/154367229-fed6e07c-645d-4ff8-9361-52e6e8ea39e6.png)
 
 ##### Kelimelerin konumları:
