@@ -10,4 +10,14 @@
 
 Durağan bellek özelliğiyle tanımlanan değişkene programın yürütülmesi başlamadan önce bellekte yer atanır Programda değişkene ilk kez başvurulduğunda ana belleğe yüklenir ve programın yürütülmesi sona erinceye değin atanan yer saklanır Dışsal bir blokta yürütme sırasında ilk adımda bazı değişkenlerin başlangıç değerlerinin biliniyor olması için durağan olarak tanımlanmaları uygun bir yoldur İçsel bir prosedürde bir değişkenin durağan olarak tanımlanması içinse prosedürün ilk yürütmesinden son yürütmesine değin değişkenin değerinin değişmemesi gibi bir koşulun varlığı konu olabilir Her iki durumda içsel ve dışsal prosedürde durağan bellek özelliğiyle tanımlanan değişken bir başka prosedürde yeni bellek sınıfı gerektirecek biçimde tanımlandığı sürece durağan bellek sınıfı özelliğini korur ayrıca durağan bellek özelliği taşıyan değişkenler programın neresinde tanımlanırsa tanımlansınlar yürütmeden önce belleğe atanırlar
 
-#### Çıktılar![Screenshot_2](https://user-images.githubusercontent.com/57726183/154366973-bdd90ccd-5afb-4817-9215-822f4388121e.png)
+#### Çıktılar
+Paragrafın satır genişliğine göre hizalanması:
+![image](https://user-images.githubusercontent.com/57726183/154367166-9723eae6-1b14-4fe3-a542-7a136ebc999d.png)
+![image](https://user-images.githubusercontent.com/57726183/154367229-fed6e07c-645d-4ff8-9361-52e6e8ea39e6.png)
+
+##### Kelimelerin konumları:
+![image](https://user-images.githubusercontent.com/57726183/154367336-f4607b1f-9946-4052-9bb7-1a0451b80d24.png)
+##### Kelimelerin harf uzayında kontrolü ve varsa konumları:
+![image](https://user-images.githubusercontent.com/57726183/154367389-81312cfb-37e9-4fd6-ab38-b1066cda6f09.png)
+![image](https://user-images.githubusercontent.com/57726183/154367417-386e36b8-62b5-450f-97d7-cdddfc743d3a.png)
+
